@@ -1,0 +1,7 @@
+D:\Capgemini\Practice\CSharpAssignment1\bin\Debug\CSharpAssignment1.exe.config
+D:\Capgemini\Practice\CSharpAssignment1\bin\Debug\CSharpAssignment1.exe
+D:\Capgemini\Practice\CSharpAssignment1\bin\Debug\CSharpAssignment1.pdb
+D:\Capgemini\Practice\CSharpAssignment1\obj\Debug\CSharpAssignment1.csproj.AssemblyReference.cache
+D:\Capgemini\Practice\CSharpAssignment1\obj\Debug\CSharpAssignment1.csproj.CoreCompileInputs.cache
+D:\Capgemini\Practice\CSharpAssignment1\obj\Debug\CSharpAssignment1.exe
+D:\Capgemini\Practice\CSharpAssignment1\obj\Debug\CSharpAssignment1.pdb
