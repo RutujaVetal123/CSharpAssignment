@@ -1,0 +1,75 @@
+         Calculator
+ Enter Two Numbers :
+100
+25
+         Operations can be performend
+ 1. Addtion
+ 2. Subtraction
+ 3. Multiplication
+ 4. Division
+ Answer :
+3
+Multiplication = 2500
+
+
+************************************************************
+         Highest Marks
+ Enter five Students score :
+86
+95
+42
+96
+37
+Highest Score = 96
+
+
+************************************************************
+         Sum of 'n' integer
+ How many numbers do you want to add? :
+3
+Enter the 3 integers :
+350
+450
+100
+Sum of 3 integers = 900
+
+
+************************************************************
+         Swappin of numbers
+ Enter Two Numbers :
+36
+63
+Swaped Numbers : 63 36
+
+
+************************************************************
+         Circumference and Area of Circle
+ Enter the radius :
+10
+Circle of radius 10 has Area : 314.159265358979 and Circumference : 62.8318530717959
+
+
+************************************************************
+        Book Details
+ Enter the Book Details :
+Book ID :
+32
+
+Book Title :
+Statistics
+
+Book Price :
+200.35
+
+Book Type :
+1. Magazine
+2. Novel
+3. ReferenceBook
+4. Miscellaneous
+3
+
+Details of book are:
+/* ID: 32
+/* Title: Statistics
+/* Price: 200.35
+/* Type: ReferenceBook
